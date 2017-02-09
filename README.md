@@ -1,2 +1,2 @@
 # sandbox
-A place for testib features/bots/etc. 
+A place forstib features/bots/etc. 
